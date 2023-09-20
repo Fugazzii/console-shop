@@ -1,4 +1,3 @@
 program
 src/Command/
-src/Store/Store.cpp
 save.cpp
